@@ -1,0 +1,262 @@
+*{
+    margin: 0px;
+}
+
+.c-nav{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 20px 20px 20px 0px;
+    box-shadow: 0px 2px 5px #00000040;
+    position: fixed;
+    width: 100%;
+    
+}
+
+
+
+.d-nav ul{
+    font-size: 18px;
+    
+
+}
+
+.d-nav a{
+    text-decoration: none;
+    padding: 0px 40px 0px 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    
+}
+
+.d-nav a:hover{
+    font-weight: 600;
+
+
+
+}
+
+.c-con{
+    display: flex;
+    justify-content: center;
+}
+
+.d-con img{
+    max-width: 100%;
+    max-height: auto;
+}
+
+.d-con4 img{
+    max-width: 100%;
+    max-height: auto;
+    margin-top: 50px;
+}
+
+
+/* Trustpilot afsnittet */
+.d-con2{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.d-con2 img{
+    max-width: 100%;
+    max-height: 400px;
+}
+
+.fpormat-ind h1{
+    color: #F42F2F;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+}
+
+.fpormat-ind p{
+    width: 400px;
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hey:hover{
+    background-color: white;
+    color: #F42F2F;
+    border: solid 1px #F42F2F;
+}
+
+#hey{
+text-decoration: none;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+padding: 15px 30px;
+background-color: #F42F2F;
+border-radius: 500px;
+margin-top: 30px;
+margin-left: 50px;
+margin-bottom: 150px;
+border: white;
+position: absolute;
+
+}
+
+
+
+.fpormat-ind img{
+    max-width: 100%;
+    max-height: 30px;
+     padding-left: 50px;
+}
+
+.d-con3{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.d-con3 h2{
+    text-align: center;
+    width: 750px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.d-con5{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.d-con5 img{
+    max-width: 100%;
+    max-height: 400px;
+}
+
+.fpormat-ind2 h2{
+    color: #F42F2F;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    font-size: 40px;
+}
+
+.fpormat-ind2 p{
+    width: 400px;
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.fpormat-ind2 a{
+    padding-left: 50px;
+}
+
+
+
+.fpormat-ind2 img{
+    max-width: 100%;
+    max-height: 30px;
+     padding-left: 50px;
+}
+
+.fpormat-ind2{
+    padding-top: 80px;
+}
+
+.d-con6{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+
+}
+
+.d-con6 img{
+    max-width: 100%;
+    max-height: 350px;
+}
+
+.fpormat-ind3 h3{
+    color: #F42F2F;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    font-size: 30px;
+
+}
+
+.fpormat-ind3 p{
+    width: 400px;
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.fpormat-ind3 a{
+    padding-left: 50px;
+}
+
+
+
+.fpormat-ind3 img{
+    max-width: 100%;
+    max-height: 30px;
+     padding-left: 50px;
+}
+
+.fpormat-ind3{
+
+    padding: 80px 80px 0px 80px;
+}
+
+.c-con7, .c-con8, .c-con9{
+    display: flex;
+    justify-content: center;
+}
+
+.d-con7{
+    padding-top: 80px;
+}
+
+.d-con7 img{
+    max-width: 100%;
+    max-height: 50px;
+}
+
+.d-con8 img{
+    max-width: 100%;
+    max-height: 500px;
+}
+
+.d-con8{
+    padding-top: 20px;
+}
+
+.d-con9{
+    margin-top: 50px;
+    margin-bottom: 130px;
+
+
+}
+
+
+
+.d-con9 a:hover{
+    background-color: white;
+    color: #F42F2F;
+    border: solid 1px #F42F2F;
+}
+
+.d-con9 a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px 30px;
+    background-color: #F42F2F;
+    border-radius: 500px;
+    margin-top: 30px;
+    margin-bottom: 150px;
+    border: white;
+  
+}
+
+footer{
+    color: black;
+    background-color: #262626;
+    padding: 100px;
+}
